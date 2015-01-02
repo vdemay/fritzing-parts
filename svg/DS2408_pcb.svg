@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.42in' height='0.322in' viewBox='0 0 30.24 23.184' >
+<g partID='1029320'><g transform="matrix(1, 0, 0, 1, -0.687661, 0)">
+ <g  id="copper1">
+  <rect  fill="#ffbf00" x="2.304" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector0pin"/>
+  <rect  fill="#ffbf00" x="5.904" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector1pin"/>
+  <rect  fill="#ffbf00" x="9.504" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector2pin"/>
+  <rect  fill="#ffbf00" x="13.104" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector3pin"/>
+  <rect  fill="#ffbf00" x="16.704" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector4pin"/>
+  <rect  fill="#ffbf00" x="20.304" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector5pin"/>
+  <rect  fill="#ffbf00" x="23.904" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector6pin"/>
+  <rect  fill="#ffbf00" x="27.504" y="17.424" width="1.872" height="5.76" stroke-width="0" id="connector7pin"/>
+  <rect  fill="#ffbf00" x="27.504" y="0" width="1.872" height="5.76" stroke-width="0" id="connector8pin"/>
+  <rect  fill="#ffbf00" x="23.904" y="0" width="1.872" height="5.76" stroke-width="0" id="connector9pin"/>
+  <rect  fill="#ffbf00" x="20.304" y="0" width="1.872" height="5.76" stroke-width="0" id="connector10pin"/>
+  <rect  fill="#ffbf00" x="16.704" y="0" width="1.872" height="5.76" stroke-width="0" id="connector11pin"/>
+  <rect  fill="#ffbf00" x="13.104" y="0" width="1.872" height="5.76" stroke-width="0" id="connector12pin"/>
+  <rect  fill="#ffbf00" x="9.504" y="0" width="1.872" height="5.76" stroke-width="0" id="connector13pin"/>
+  <rect  fill="#ffbf00" x="5.904" y="0" width="1.872" height="5.76" stroke-width="0" id="connector14pin"/>
+  <rect  fill="#ffbf00" x="2.304" y="0" width="1.872" height="5.76" stroke-width="0" id="connector15pin"/>
+ </g>
+</g>
+</g><g partID='1029321'><g xmlns="http://www.w3.org/2000/svg" id="silkscreen">
+ <line xmlns="http://www.w3.org/2000/svg" y1="6.048" y2="6.048" fill="none" x1="28.4723" x2="1.83234" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="line156"/>
+ <line xmlns="http://www.w3.org/2000/svg" y1="17.136" y2="17.136" fill="none" x1="1.83234" x2="28.4723" style="stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="line158"/>
+ <line xmlns="http://www.w3.org/2000/svg" y1="16.056" y2="7.128" fill="none" x1="29.5523" x2="29.5523" style="stroke-linecap:round" stroke="#ffffff" stroke-width="0.432" id="line160"/>
+ <line xmlns="http://www.w3.org/2000/svg" y1="7.128" y2="16.056" fill="none" x1="0.752339" x2="0.752339" style="stroke-linecap:round" stroke="#ffffff" stroke-width="0.432" id="line162"/>
+ <line xmlns="http://www.w3.org/2000/svg" y1="16.128" y2="16.128" fill="none" x1="0.752339" x2="29.5523" stroke="#ffffff" stroke-width="0.144" id="line164"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="none" d="m28.4723,17.136a1.08,1.08,0,0,0,1.08,-1.08" style="stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="path166"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="none" d="m1.83234,6.048a1.08,1.08,0,0,0,-1.08,1.08" style="stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="path168"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="none" d="m29.5523,7.128a1.08,1.08,0,0,0,-1.08,-1.08" style="stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="path170"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="none" d="m0.752339,16.056a1.08,1.08,0,0,0,1.08,1.08" style="stroke-miterlimit:4;stroke-dasharray:none" stroke="#ffffff" stroke-width="0.432" id="path172"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="none" d="m0.752339,13.032a1.44,1.44,0,0,0,0,-2.88" stroke="#ffffff" stroke-width="0.216" id="path174"/>
+ <path xmlns="http://www.w3.org/2000/svg" fill="#ffffff" d="m3.35284,14.9404a0.808781,0.808781,0,0,1,-1.61756,0,0.808781,0.808781,0,1,1,1.61756,0z" stroke="none" fill-opacity="1" id="path3060"/>
+</g>
+</g></svg>

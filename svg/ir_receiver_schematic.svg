@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21.279px" height="21.057px" viewBox="0 0 21.279 21.057" enable-background="new 0 0 21.279 21.057" xml:space="preserve">
+<g id="copper1_1_">
+	<g id="copper0_1_">
+		<line fill="none" stroke="#000000" stroke-width="1.224" x1="0" y1="3.253" x2="5.833" y2="3.253"/>
+		<line fill="none" stroke="#000000" stroke-width="1.224" x1="0" y1="10.454" x2="5.833" y2="10.454"/>
+		<line fill="none" stroke="#000000" stroke-width="1.224" x1="0" y1="17.653" x2="5.833" y2="17.653"/>
+		<g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-width="1.224" d="M16.667,5.788c-0.058,0-0.11,0.017-0.167,0.02V0.612H5.833v19.833
+					H16.5v-5.344c0.057,0.003,0.109,0.02,0.167,0.02c2.209,0,4-2.089,4-4.667C20.667,7.876,18.876,5.788,16.667,5.788z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 7.334 4.4253)" font-family="'MyriadPro-Regular'" font-size="3.4139">Vcc</text>
+<text transform="matrix(1 0 0 1 7.334 11.2583)" font-family="'MyriadPro-Regular'" font-size="3.4139">Gnd</text>
+<text transform="matrix(1 0 0 1 7.334 18.2583)" font-family="'MyriadPro-Regular'" font-size="3.4139">Data</text>
+</svg>

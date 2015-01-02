@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="47.906px"
+	 height="47.906px" viewBox="0 0 47.906 47.906" enable-background="new 0 0 47.906 47.906" xml:space="preserve">
+<g id="copper1">
+	<circle id="connector4pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="10.488" cy="23.953" r="1.8"/>
+	<circle id="connector5pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="37.417" cy="23.953" r="1.8"/>
+	<circle id="connector1pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="14.457" cy="14.457" r="1.8"/>
+	<circle id="connector3pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="14.457" cy="33.449" r="1.8"/>
+	<circle id="connector2pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="33.449" cy="33.449" r="1.8"/>
+	<circle id="connector0pad" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="33.449" cy="14.457" r="1.8"/>
+	<circle id="nonconn0" cx="23.953" cy="23.953" r="4.252"/>
+	<g id="copper0">
+		<circle id="connector4pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="10.488" cy="23.953" r="1.8"/>
+		<circle id="connector5pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="37.417" cy="23.953" r="1.8"/>
+		<circle id="connector1pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="14.457" cy="14.457" r="1.8"/>
+		<circle id="connector3pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="14.457" cy="33.449" r="1.8"/>
+		<circle id="connector2pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="33.449" cy="33.449" r="1.8"/>
+		<circle id="connector0pad_1_" fill="none" stroke="#F7BD13" stroke-width="0.254" cx="33.449" cy="14.457" r="1.8"/>
+		<circle id="nonconn1" cx="23.953" cy="23.953" r="4.252"/>
+	</g>
+</g>
+<g id="silkscreen">
+	<circle fill="none" stroke="#F0F0F0" stroke-width="0.1" cx="23.953" cy="23.952" r="23.811"/>
+</g>
+</svg>

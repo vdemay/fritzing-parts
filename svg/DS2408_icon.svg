@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.3in' height='0.33in' viewBox='0 0 21.6 23.76' >
+<g partID='1029420'><g  id="icon">
+ <rect  fill="#303030" x="0" y="2.16" width="21.6" height="19.438" id="middle"/>
+ <rect  fill="#3D3D3D" x="0" y="2.16" width="21.6" height="1.771" id="top"/>
+ <rect  x="0" y="19.828" width="21.6" height="1.771" id="bottom"/>
+ <polygon  fill="#1F1F1F" points="0,2.16,0.54,3.931,0.54,19.828,0,21.6" id="left"/>
+ <polygon  fill="#1C1C1C" points="3.6,8.28,0.54,8.251,0.404,9.778,0.404,11.88,3.6,11.88" id="left-upper-rect"/>
+ <polygon  fill="#383838" points="0.54,15.516,3.6,15.516,3.6,11.88,0.404,11.88,0.404,13.983" id="left-lower-rect"/>
+ <path  fill="#262626" d="M0.404,9.778l0,4.197c1.059,-0.122,1.887,-1.008,1.887,-2.103C2.289,10.779,1.469,9.9,0.404,9.778z" id="slot"/>
+ <path  fill="#303030" d="M0.54,3.931l0,4.313c1.713,0.322,3.017,1.82,3.017,3.628s-1.296,3.313,-3.017,3.637l0,0.007l3.6,0L4.14,3.931L0.54,3.931z" id="cover"/>
+ <circle  cx="4.68" r="1.483" fill="#212121" cy="16.898"/>
+ <g transform="matrix(1, 0, 0, 1, 3.4827, 12.8792)">
+  <text  fill="#DDDDDD" font-size="7.76" font-family="OCRA">DSxx</text>
+ </g>
+ <rect  fill="#8C8C8C" x="2.52" y="20.635" width="2.16" height="3.125" id="connector0pin"/>
+ <rect  fill="#8C8C8C" x="2.52" y="21.6" width="2.16" height="2.16" id="connector0terminal"/>
+ <polygon  fill="#8C8C8C" points="2.52,20.635,2.52,22.075,4.68,22.075,6.12,21.412,6.12,20.635"/>
+ <rect  fill="#8C8C8C" x="2.52" y="0" width="2.16" height="3.125" id="connector5pin"/>
+ <rect  fill="#8C8C8C" x="2.52" y="0" width="2.16" height="2.16" id="connector5terminal"/>
+ <polygon  fill="#8C8C8C" points="6.12,3.125,6.12,2.347,4.68,1.685,2.52,1.685,2.52,3.125"/>
+ <rect  fill="#8C8C8C" x="16.92" y="20.635" width="2.16" height="3.125" id="connector2pin"/>
+ <rect  fill="#8C8C8C" x="16.92" y="21.6" width="2.16" height="2.16" id="connector2terminal"/>
+ <polygon  fill="#8C8C8C" points="15.48,20.635,15.48,21.412,16.92,22.075,19.08,22.075,19.08,20.635"/>
+ <rect  fill="#8C8C8C" x="16.92" y="0" width="2.16" height="3.125" id="connector3pin"/>
+ <rect  fill="#8C8C8C" x="16.92" y="0" width="2.16" height="2.16" id="connector3terminal"/>
+ <polygon  fill="#8C8C8C" points="19.08,3.125,19.08,1.685,16.92,1.685,15.48,2.347,15.48,3.125"/>
+ <rect  fill="#8C8C8C" x="9.72" y="20.635" width="2.16" height="3.125" id="connector1pin"/>
+ <rect  fill="#8C8C8C" x="9.72" y="21.6" width="2.16" height="2.16" id="connector1terminal"/>
+ <polygon  fill="#8C8C8C" points="8.28,20.635,8.28,21.412,9.72,22.075,11.88,22.075,13.32,21.412,13.32,20.635"/>
+ <rect  fill="#8C8C8C" x="9.72" y="0" width="2.16" height="3.125" id="connector4pin"/>
+ <rect  fill="#8C8C8C" x="9.72" y="0" width="2.16" height="2.16" id="connector4terminal"/>
+ <polygon  fill="#8C8C8C" points="13.32,3.125,13.32,2.347,11.88,1.685,9.72,1.685,8.28,2.347,8.28,3.125"/>
+</g>
+</g></svg>
