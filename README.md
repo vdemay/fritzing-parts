@@ -1,5 +1,5 @@
 # My Fritzing Parts
-The aim of this project is to add missing parts to fritzing
+The aim of this project is to add missing parts to fritzing - see my blog: http://www.homautomation.org/2014/09/18/my-custom-fritzing-parts/
 
 # Folders
  - Svg folder contains svg artwork
